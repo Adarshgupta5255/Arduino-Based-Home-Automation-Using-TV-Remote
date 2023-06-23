@@ -1,2 +1,3 @@
 # Arduino-Project
-Home Automation
+Arduino Based Home Automation using TV remote.
+Here We control our home appliances with TV remote.
